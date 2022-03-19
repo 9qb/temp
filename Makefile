@@ -3,7 +3,7 @@ TARGET := iphone:clang:latest:7.0
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = noAds
+TWEAK_NAME = noads
 
 noAds_FILES = Tweak.x
 noAds_CFLAGS = -fobjc-arc
