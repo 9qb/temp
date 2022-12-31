@@ -1,1 +1,28 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.google.ios.youtube","developerName":"Google","downloadURL":"https://doc-0g-4k-docs.googleusercontent.com/docs/securesc/eggrj4mii5pdmns6lmo035epu9sd976i/ho5mbu2ltsaa915gtmnva0fnh03r4ojh/1672520775000/09027213548314464709/09027213548314464709/1rJw6IE6Sx4pBuh7jkuMLGCur0aBDwkki?e=download&ax=ALjR8syPZJ2RvlaLGgXMS2l4uMFEVEYxVvtxODZOmlg14OdRfWcAKHXBsfsBF1-uy99Ac8DRiGatBBJE37jluLTgjbfhKnUu5aIWpo9zlkysJf6E9vcJ16Ez35FB2RSKx5yGl6ZiJIRyf8A91NfsOkNsqJRpbh5EpeACyx9w94nWEPqUrWch62Q29ZAP0uc4eKGgV0ys3ZarsYSPt5l_JmHAkioeqxBQv-jgE_AXmAXCOWS25aEIAzEK4-bQjFP_gsx7i_cuF-gca6qwIaHtC0QztBWP2MtQBVxz-xOgIGsGi0jCZ7TUDMyni8jhsbImlzR41PDdXH2GolQT3DvQUnPBqS4zrYigocMQKxcWIu7divwAlJy707Lh8emeXrOcB1Md6NAUtu2ARhLVJGFFKwIWYDLxuKus4d78KSXzlFtHa6NBI3rk71lvd8f-p1ncnEXVE9N4uTzjZlg4zwBgQUqag4rot2iqNvrILwAqn_02MiQerwOGbKH89lIiZPXaTilmSdJwiEdbeWN0VwbuyXIlpW_yo5kPL2NNnPCgUsTzhbIsc_BoBoUHLDUv9lpzi-dJCqj_VtzmZdTOMwq_XBIz78RwbjFfLTkiOeE36W-0aQR_EGBv7um7UprwVqIUdMa1TzQpnRkS2Ym8CVTIlq0oTKiEVzwOLXVb4EDMNYqR9f_Mi58LWfXL19zqtqkL21TopNXl6FdKA2Ej0dTdNZ7SEiWdmGGDKNHS8hbxI-fLQFO9VnfY_PELTHmPU4TqF161k3rWFkvYjbLkaRsXwCNfRda2ibzw5Rd-AKCduqBL7kCIqpk0AYfimxusHrgby4eYop5JbnmbAGk8NY0HmC3f41XuTyon8G0Scv-hk4OusybWE6ccd3nFa-vLe0zYj9H8mwUdI0GRS3bH-Ey87LRIeDBojEJ4K60j8F6QYk3UZFZ1bSk2agHJ7IFtOo4i8IGPjkQUFj7OEOVTprquFO7f7uWsYCsfE8C0OW8fd2EvRy1pDQIoWbATF-0IXxmfcGhfhqC4nLM-38og53b_FYa67Za_dFZPZRab3MbDE6Il_-kpoGra5r14ZQr-utIQFWBLyjTTw0yS4SA3h09PE3LgiBtlLnZwP66YOqfEOvQfvUlH1d1LE1SluyND&uuid=dfe6d572-0693-4215-ac13-a591601a8870","iconURL":"https://cdn-icons-png.flaticon.com/512/1384/1384060.png","localizedDescription":"","name":"BetterYT","screenshotURLs":[""],"size":1,"subtitle":"iykyk","tintColor":"018022","version":"1","versionDate":"2020-03-24T14:00:00-07:00","versionDescription":""}],"identifier":"com.example.source","name":"thing","news":[],"userInfo":{}}
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://doc-0g-4k-docs.googleusercontent.com/docs/securesc/eggrj4mii5pdmns6lmo035epu9sd976i/ho5mbu2ltsaa915gtmnva0fnh03r4ojh/1672520775000/09027213548314464709/09027213548314464709/1rJw6IE6Sx4pBuh7jkuMLGCur0aBDwkki?e=download&ax=ALjR8syPZJ2RvlaLGgXMS2l4uMFEVEYxVvtxODZOmlg14OdRfWcAKHXBsfsBF1-uy99Ac8DRiGatBBJE37jluLTgjbfhKnUu5aIWpo9zlkysJf6E9vcJ16Ez35FB2RSKx5yGl6ZiJIRyf8A91NfsOkNsqJRpbh5EpeACyx9w94nWEPqUrWch62Q29ZAP0uc4eKGgV0ys3ZarsYSPt5l_JmHAkioeqxBQv-jgE_AXmAXCOWS25aEIAzEK4-bQjFP_gsx7i_cuF-gca6qwIaHtC0QztBWP2MtQBVxz-xOgIGsGi0jCZ7TUDMyni8jhsbImlzR41PDdXH2GolQT3DvQUnPBqS4zrYigocMQKxcWIu7divwAlJy707Lh8emeXrOcB1Md6NAUtu2ARhLVJGFFKwIWYDLxuKus4d78KSXzlFtHa6NBI3rk71lvd8f-p1ncnEXVE9N4uTzjZlg4zwBgQUqag4rot2iqNvrILwAqn_02MiQerwOGbKH89lIiZPXaTilmSdJwiEdbeWN0VwbuyXIlpW_yo5kPL2NNnPCgUsTzhbIsc_BoBoUHLDUv9lpzi-dJCqj_VtzmZdTOMwq_XBIz78RwbjFfLTkiOeE36W-0aQR_EGBv7um7UprwVqIUdMa1TzQpnRkS2Ym8CVTIlq0oTKiEVzwOLXVb4EDMNYqR9f_Mi58LWfXL19zqtqkL21TopNXl6FdKA2Ej0dTdNZ7SEiWdmGGDKNHS8hbxI-fLQFO9VnfY_PELTHmPU4TqF161k3rWFkvYjbLkaRsXwCNfRda2ibzw5Rd-AKCduqBL7kCIqpk0AYfimxusHrgby4eYop5JbnmbAGk8NY0HmC3f41XuTyon8G0Scv-hk4OusybWE6ccd3nFa-vLe0zYj9H8mwUdI0GRS3bH-Ey87LRIeDBojEJ4K60j8F6QYk3UZFZ1bSk2agHJ7IFtOo4i8IGPjkQUFj7OEOVTprquFO7f7uWsYCsfE8C0OW8fd2EvRy1pDQIoWbATF-0IXxmfcGhfhqC4nLM-38og53b_FYa67Za_dFZPZRab3MbDE6Il_-kpoGra5r14ZQr-utIQFWBLyjTTw0yS4SA3h09PE3LgiBtlLnZwP66YOqfEOvQfvUlH1d1LE1SluyND&uuid=dfe6d572-0693-4215-ac13-a591601a8870",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "name": "AltStor",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "An alternative App Store for iOS.",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Source Name",
+  "news": [],
+  "userInfo": {}
+}
